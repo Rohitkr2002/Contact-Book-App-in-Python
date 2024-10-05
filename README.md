@@ -40,21 +40,24 @@ Delete a contact
 Search for a contact
 Count the total number of contacts
 Exit the program
+
 2. Choose an Option: Enter the number corresponding to the operation you want to perform.
 
 3. Create a Contact: If you choose option 1, you will be prompted to enter a contact name, age, email, and phone number. The app will then store this contact in the dictionary.
-4. 
-5. View a Contact: To view a contact, choose option 2, then enter the contact's name. If the contact exists, the app will display the contact's details.
-6. 
-7. Update a Contact: To update a contact, choose option 3, enter the contact's name, and update the contact’s age, email, or phone number.
-8. 
-6.Delete a Contact: To delete a contact, select option 4 and enter the name of the contact to remove.
 
-7.Search for a Contact: Choose option 5 to search for a contact by name. The app supports partial matches, so you don’t need to remember the exact name.
+4. View a Contact: To view a contact, choose option 2, then enter the contact's name. If the contact exists, the app will display the contact's details.
 
-8.Count Contacts: Option 6 will show you the total number of contacts stored in the contact book.
+5. Update a Contact: To update a contact, choose option 3, enter the contact's name, and update the contact’s age, email, or phone number.
 
-9.Exit: To exit the program, select option 7. The app will display a goodbye message and terminate the program.
+6. Delete a Contact: To delete a contact, select option 4 and enter the name of the contact to remove.
+
+7. Search for a Contact: Choose option 5 to search for a contact by name. The app supports partial matches, so you don’t need to remember the exact name.
+
+8. Count Contacts: Option 6 will show you the total number of contacts stored in the contact book.
+
+9. Exit: To exit the program, select option 7. The app will display a goodbye message and terminate the program.
+
+
 
 Example Usage:
 
